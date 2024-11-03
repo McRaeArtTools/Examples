@@ -1,5 +1,3 @@
-# Copyright (c) Digital Dimension. 2024
-# All Rights Reserved.
 """Launch bat file to launch remote python execution."""
 
 import os
