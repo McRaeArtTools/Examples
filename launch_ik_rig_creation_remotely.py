@@ -1,5 +1,3 @@
-# Copyright (c) Digital Dimension. 2024
-# All Rights Reserved.
 """Launch the process to create the IKRig and it's other components."""
 
 import os
