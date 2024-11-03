@@ -1,5 +1,3 @@
-# Copyright (c) Digital Dimension. 2024
-# All Rights Reserved.
 """Uses a IKRetargerer uasset to export animation from a source IKRig to a target IKRig."""
 
 import unreal
