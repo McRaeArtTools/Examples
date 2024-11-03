@@ -1,5 +1,3 @@
-# Copyright (c) Digital Dimension. 2024
-# All Rights Reserved.
 """Create a IKRig uasset from a SkeletalMesh uasset that will be used to retarget animation from another IKRig usasset."""
 
 import re
