@@ -1,5 +1,3 @@
-# Copyright (c) Digital Dimension. 2024
-# All Rights Reserved.
 """Create a IKRetargeter uasset from two IKRig uassets that will be used to batch retarget animation from one to another."""
 
 import unreal
